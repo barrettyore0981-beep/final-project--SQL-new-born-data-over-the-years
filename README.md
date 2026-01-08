@@ -20,3 +20,7 @@ this was accomplished with the help of a partially AI generated python script (n
 the CSV file from the last step was then injesting into a SQL LITE data base using DBEAVER which acted as the main IDE for the project 
 
 # FILE EPLANATIONS  
+  combined_names.csv.zip  -the reformated data 
+  final-project.sql       -the SQL queries for the project
+  final_project.db.zip    -the injested SQL LITE data base 
+  name data to csv.py     -the automatic python script to reformat the orignal data set to a CSV
